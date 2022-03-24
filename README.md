@@ -1,4 +1,5 @@
 # Kanna Chan
+**‼ Note: This version of kanna is no longer in use, for the source code of rewrite version click [here](https://github.com/asheeeshh/kanna-rewrite).**
 
 <img align='center' src="https://user-images.githubusercontent.com/68690233/125222011-cfb47e00-e2e6-11eb-9f35-a99342ce97ce.png">
 
